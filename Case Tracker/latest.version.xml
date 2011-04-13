@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VersionInfo>
+  <Release>
+    <Version>1.2.2.133</Version>
+    <Notes>* Reorganized main menu into groups
+* Added "New Sub-Case" button (to create a sub case of the current case)
+* Disabled FreeMind Import feature, since it's not quite ready yet</Notes>
+    <URL>http://visionmap.googlecode.com/files/CaseTracker-1.2.2.133-setup.exe</URL>
+    <MD5>110233067CE4FF0CDB5034E6BA8E2613</MD5>
+  </Release>
+  <Release>
+    <Version>1.2.1.120</Version>
+    <Notes>* Added Seach History for filter page (remembers your last 20 filters)
+* UI Enhancement - disabled buttons are now grey</Notes>
+    <URL>http://visionmap.googlecode.com/files/CaseTracker-1.2.1.120-setup.exe</URL>
+    <MD5>70309698E732E6AD9399873FF4191797</MD5>
+  </Release>
+  <Release>
+    <Version>1.2.1.103</Version>
+    <Notes>* Added Pause button (stops the clock while you're away)
+* Auto version update from now on</Notes>
+    <URL>http://visionmap.googlecode.com/files/CaseTracker-1.2.1.103-setup.exe</URL>
+    <MD5>B1C93762A1E43D25A3520A1F034E9F0E</MD5>
+  </Release>
+  <Release>
+    <Version>1.2.0.93</Version>
+    <Notes>* Auto-update checks for new version every hour</Notes>
+    <URL>http://visionmap.googlecode.com/files/CaseTracker-1.1.0.60-setup.exe</URL>
+    <MD5>C2FD13B997FF3DE9BE5E83EF1FEDC3AE</MD5>
+  </Release>
+</VersionInfo>

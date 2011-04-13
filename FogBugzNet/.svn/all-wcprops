@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/149/trunk/projects/FogBugzNet
+END
+Case.cs
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/71/trunk/projects/FogBugzNet/Case.cs
+END
+ProjectNode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/57/trunk/projects/FogBugzNet/ProjectNode.cs
+END
+EstimateDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/149/trunk/projects/FogBugzNet/EstimateDialog.Designer.cs
+END
+EstimateDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/149/trunk/projects/FogBugzNet/EstimateDialog.cs
+END
+Credentials.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/48/trunk/projects/FogBugzNet/Credentials.cs
+END
+MileStone.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/70/trunk/projects/FogBugzNet/MileStone.cs
+END
+Utils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/47/trunk/projects/FogBugzNet/Utils.cs
+END
+HttpUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/90/trunk/projects/FogBugzNet/HttpUtils.cs
+END
+Importer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/projects/FogBugzNet/Importer.cs
+END
+FogBugz.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/149/trunk/projects/FogBugzNet/FogBugz.cs
+END
+FogBugzTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/145/trunk/projects/FogBugzNet/FogBugzTest.cs
+END
+FogBugzNet.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/146/trunk/projects/FogBugzNet/FogBugzNet.csproj
+END
+Search.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/68/trunk/projects/FogBugzNet/Search.cs
+END
+EstimateDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/146/trunk/projects/FogBugzNet/EstimateDialog.resx
+END
+Exporter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/projects/FogBugzNet/Exporter.cs
+END

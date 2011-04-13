@@ -1,0 +1,49 @@
+8
+
+dir
+150
+http://visionmap.googlecode.com/svn/trunk/projects
+http://visionmap.googlecode.com/svn
+
+
+
+2009-09-01T07:27:06.266476Z
+150
+assaflavie
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f6ba9cca-11b4-11de-af30-3d3b2b6d83b0
+
+CaseTracker
+dir
+
+StopCrop
+dir
+
+FogBugzNet
+dir
+
+upload.py
+file
+
+
+
+
+2009-09-01T15:38:50.437233Z
+e87ba111d62b57b8fcce167a07538fc8
+2009-08-04T09:22:43.423824Z
+79
+assaflavie
+
